@@ -1,0 +1,19 @@
+# 3D design source files (large, not needed for build)
+*.step
+*.STEP
+*.stp
+*.STP
+*.3mf
+*.3MF
+
+# CAD files
+*.FCStd
+*.FCStd1
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
